@@ -1,2 +1,3 @@
-# python-asio-jam
-Using ASIO to control studio audio devices from Windows 
+# Python ASIO Jam - Controlling Studio Audio Equipment
+
+
